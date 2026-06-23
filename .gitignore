@@ -1,0 +1,23 @@
+# 모델 체크포인트
+*.pth
+*.pt
+
+# 데이터 파일
+*.npy
+*.hdf5
+*.h5
+*.csv
+
+# 결과 출력
+outputs/
+eval/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# 기타
+.DS_Store
