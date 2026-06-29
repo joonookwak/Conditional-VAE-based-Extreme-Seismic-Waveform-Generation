@@ -134,3 +134,8 @@ Google Colab Secrets에 다음 키를 등록해야 한다:
 
 - `GITHUB_TOKEN`
 - `WANDB_API_KEY`
+
+---
+
+## 최종 실험 및 보고서
+COSE362-Final-Report-K8.pdf
